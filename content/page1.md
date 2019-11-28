@@ -13,7 +13,7 @@ git init
 git add .
 git commit -m ' '
 git remote add origin 地址
-git pppush -u origin master
+git push -u origin master
 git checkout --orphan gh-pages
 git add .
 git commit -m ' '
